@@ -1,2 +1,2 @@
-# Construction-Safety-Study-Guide
+# CS-Study-Guide
 Construction Safety Exam Prep
